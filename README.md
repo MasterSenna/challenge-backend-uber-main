@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Email Microservice
 ## Uber Backend Challenge
 
@@ -66,3 +67,6 @@ When contributing to this project, please follow the existing code style, [commi
 
 
 
+=======
+# challenge-backend-uber-main
+>>>>>>> 2075ff077db20def9af8b597edeec5421a1c3f12
